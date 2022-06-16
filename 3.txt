@@ -1,0 +1,5 @@
+we will write content to all the files and then add them to the 
+stagigng area and check the git status 
+once it is clear then we use the git commit command to push the changhes to the 
+local repositories. from there we can push the file to the main using the git push origin command
+

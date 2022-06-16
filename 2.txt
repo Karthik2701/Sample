@@ -1,0 +1,6 @@
+how are tou 
+this is my secodn file creation 
+this process is to test the process of copying files from one repo to another
+we will see how we go 
+this git is all about experimenting
+
