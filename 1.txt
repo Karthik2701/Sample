@@ -5,3 +5,4 @@ this is the fourth line that im adding
 this is the line that im adding to see and understand the conflicts 
 this is the fourth line that im adding 
 we add a fifth line in the remote repo to see if there are any conflict that appear when we add content in the local. Let's try!!
+now we add the eight line and try again with the conflicts 
